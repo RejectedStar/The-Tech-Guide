@@ -1,25 +1,31 @@
-#Todo
-##Tutorials that will be wrote in the future
--javascript
--react
--jQuery
--Vue
--AngularJS
--JSON
--AJAX
--AppML
+## 🌟 Future Tutorials To Be Written 🌟
 
--Python
--SQl
--MySQL
--PHP
--Java 
--C 
--C#
--C++
--R 
--Kotlin 
--Go
--Django
+### 🌐 Front-End Development
+- ⚡ JavaScript
+- ⚛️ React
+- 💎 jQuery
+- 🌱 Vue
+- 📐 AngularJS
+- 📦 JSON
+- 🔄 AJAX
+- 🖥️ AppML
 
-and more
+### 🐍 Back-End & Database
+- 🐍 Python
+- 🗄️ SQL
+- 💾 MySQL
+- 🐘 PHP
+- ☕ Java
+
+### 💻 Programming Languages
+- 📜 C
+- 🎯 C#
+- ➕ C++
+- 📊 R
+- 🔧 Kotlin
+- 🚀 Go
+
+### 🌐 Frameworks
+- 🎨 Django
+
+### ➕ More to Come!
